@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+__mocks__/
+src/
+
+# Optional eslint cache
+yarn.lock
